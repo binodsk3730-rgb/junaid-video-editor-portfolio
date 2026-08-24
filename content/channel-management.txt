@@ -1,0 +1,100 @@
+YOUTUBE CHANNEL MANAGEMENT — VERIFIED SOURCES
+
+IMPORTANT:
+This information is intended for the YouTube Channel Management
+and Results sections of the website.
+
+Only display metrics that are verified before publishing.
+
+
+==================================================
+BUSINESS MACHINES
+==================================================
+
+Channel:
+https://www.youtube.com/@Business_Machines
+
+Role:
+YouTube content / channel management and video production support.
+
+Supporting screenshots or proof should be stored in:
+./channels/business-machines/
+
+
+==================================================
+STARSPILLMEDIA
+==================================================
+
+Channel:
+https://www.youtube.com/@StarSpillMedia
+
+Role:
+YouTube content / channel management and video production support.
+
+Supporting screenshots or proof should be stored in:
+./channels/starspillmedia/
+
+
+==================================================
+FASHION BY HANIA
+==================================================
+
+Channel:
+https://www.youtube.com/@FashionByHania
+
+Role:
+YouTube channel/content management experience.
+
+Supporting screenshots or proof should be stored in:
+./channels/fashion-by-hania/
+
+
+==================================================
+SANAS MEHNDI CREATIONS
+==================================================
+
+Channel:
+https://www.youtube.com/@SanasMehndiCreations
+
+Role:
+YouTube channel/content management experience.
+
+Supporting screenshots or proof should be stored in:
+./channels/sanas-mehndi/
+
+
+==================================================
+PERFORMANCE / EXPERIENCE
+==================================================
+
+Previously provided professional positioning includes:
+
+- 700M+ combined views across channels worked with / managed
+- Experience managing large YouTube channels
+- Experience across multiple long-form content niches
+- Full content workflow support
+
+IMPORTANT:
+Do not automatically publish these numbers.
+
+Before the final website is published:
+verify each public statistic or use supporting analytics/screenshots.
+
+Never fabricate or estimate results.
+
+
+==================================================
+WEBSITE PRESENTATION
+==================================================
+
+Do not present this section as a boring list of channel links.
+
+Use:
+- channel screenshots
+- selected video thumbnails
+- verified performance metrics
+- concise descriptions of my role
+- bold editorial layouts inspired by ./references
+
+The goal is to communicate that I have practical experience
+working behind real YouTube content operations.

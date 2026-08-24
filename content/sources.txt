@@ -1,0 +1,35 @@
+OLD WEBSITE — CONTENT SOURCE ONLY
+
+Website:
+https://junaidkhattak-upwork-portfolio.netlify.app/
+
+PURPOSE:
+Use this old website only as a source for my existing professional information,
+services, experience, portfolio categories, achievements, work history,
+project information, and other useful content.
+
+IMPORTANT:
+Do NOT copy the old website's design, layout, colors, typography,
+spacing, animations, or visual style.
+
+DESIGN SOURCE:
+The visual direction for the NEW website comes from the screenshots
+inside the ./references folder.
+
+BRANDING:
+My real profile photos are inside ./branding.
+
+NEW WEBSITE POSITIONING:
+- Professional Video Editing
+- YouTube Channel Management
+- Script Writing
+- YouTube Content Production
+- Documentary / Faceless YouTube Editing
+- Content Strategy
+- Creative Direction
+
+The website should present me as someone who can handle the complete
+YouTube content workflow, not only video editing.
+
+The final website should feel like a premium creative portfolio
+and not like a generic freelancer template.

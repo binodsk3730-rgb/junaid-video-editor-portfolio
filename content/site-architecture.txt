@@ -1,0 +1,281 @@
+NEW WEBSITE — CONTENT & SECTION ARCHITECTURE
+
+PRIMARY POSITIONING:
+Muhammad Junaid Khattak is not only a video editor.
+
+The website should position him as a:
+VIDEO EDITOR + YOUTUBE CONTENT & CHANNEL MANAGEMENT SPECIALIST
+
+He can handle the complete YouTube content workflow from idea/script
+to finished video and ongoing channel management.
+
+The website should feel premium, creative, confident, modern and visual.
+It should NOT feel like a generic freelancer portfolio.
+
+==================================================
+01. HERO
+==================================================
+
+PURPOSE:
+Immediately communicate what I do and visually establish premium quality.
+
+CORE MESSAGE:
+Video Editing + Complete YouTube Content Management
+
+The hero should communicate that I help creators and businesses
+turn ideas into high-quality YouTube content.
+
+Possible supporting capabilities:
+- Video Editing
+- Script Writing
+- Content Production
+- YouTube Channel Management
+
+VISUAL DIRECTION:
+Use large bold typography inspired by the reference screenshots.
+Use portfolio/video visuals in a creative composition.
+A profile photo may be used if it improves the composition,
+but do not make the website feel like a personal photo gallery.
+
+Primary CTA:
+View My Work
+
+Secondary CTA:
+Let's Work Together
+
+
+==================================================
+02. ABOUT / WHO I AM
+==================================================
+
+PURPOSE:
+Introduce Muhammad Junaid Khattak professionally.
+
+Use one of the real profile images from ./branding.
+
+Explain briefly:
+- Professional video editor
+- YouTube content specialist
+- Experience across many content niches
+- Ability to manage complete content workflows
+- Focus on storytelling, retention and professional visual quality
+
+Keep this section concise and visual.
+
+
+==================================================
+03. SERVICES / WHAT I DO
+==================================================
+
+Present the main services clearly.
+
+PRIMARY SERVICES:
+
+01 — Video Editing
+Long-form YouTube videos, documentary storytelling,
+faceless content, cinematic editing, stock footage,
+archival visuals and motion graphics.
+
+02 — YouTube Channel Management
+Managing the complete YouTube content operation and workflow.
+
+03 — Script Writing
+Research-driven and retention-focused scripts
+for long-form YouTube content.
+
+04 — Content Strategy & Production
+Content planning, creative direction and complete
+content production coordination.
+
+Do NOT create too many generic service cards.
+Use an editorial / portfolio presentation inspired by the references.
+
+
+==================================================
+04. SELECTED WORK / FEATURED PROJECTS
+==================================================
+
+PURPOSE:
+This should be one of the strongest parts of the website.
+
+Show only selected/high-quality projects prominently.
+
+Organize featured work around approximately these groups:
+
+DOCUMENTARY STORYTELLING
+Examples:
+- Crime
+- Scam & Fraud
+- Historical
+- War
+- Political
+- Finance
+
+SPORTS STORYTELLING
+Examples:
+- NBA
+- General sports
+
+FACELESS YOUTUBE
+Examples:
+- Celebrity
+- Travel
+- Horror / True Crime
+- AI documentaries
+
+CREATOR CONTENT
+Examples:
+- Talking Head
+- Podcast
+- Tool / Educational YouTube videos
+
+Use large visual project presentations instead of a simple grid
+of tiny thumbnails.
+
+Each featured project may include:
+- Project title
+- Category
+- Short editing/style description
+- Video thumbnail/frame
+- Watch/View Project CTA
+
+Portfolio sources are documented in:
+./content/portfolio-sources.txt
+
+
+==================================================
+05. COMPLETE YOUTUBE WORKFLOW
+==================================================
+
+PURPOSE:
+Show that I provide more than editing.
+
+Visually explain the workflow:
+
+IDEA / RESEARCH
+→ SCRIPT
+→ ASSETS / PRODUCTION
+→ VIDEO EDITING
+→ THUMBNAIL / CREATIVE
+→ PUBLISHING
+→ CHANNEL MANAGEMENT
+
+This should be presented as a polished visual process,
+not a boring text list.
+
+
+==================================================
+06. YOUTUBE CHANNEL MANAGEMENT / RESULTS
+==================================================
+
+PURPOSE:
+Build authority and communicate management experience.
+
+This section can show:
+- Channels worked with / managed
+- Audience or performance metrics where appropriate
+- Total views or meaningful results
+- Role in the content workflow
+
+Use credible data only.
+Do not invent statistics.
+
+Additional channel/result resources will be stored in:
+./channels
+
+
+==================================================
+07. EDITING CAPABILITIES
+==================================================
+
+Show the practical editing capabilities clients can hire me for.
+
+Examples:
+- Documentary Editing
+- Cinematic Storytelling
+- Motion Graphics
+- Stock Footage Editing
+- Archival / Photo Animation
+- Faceless YouTube Editing
+- Talking Head Editing
+- Long-form Content
+
+This should demonstrate versatility without looking cluttered.
+
+
+==================================================
+08. TESTIMONIALS / CLIENT FEEDBACK
+==================================================
+
+PURPOSE:
+Add trust and social proof.
+
+Use real testimonials/screenshots from:
+./testimonials
+
+Keep presentation clean and premium.
+
+
+==================================================
+09. ABOUT MY WORK / EXPERIENCE NUMBERS
+==================================================
+
+Possible metrics may include real verified information such as:
+- Years of experience
+- Total content/views associated with managed channels
+- Number of niches worked in
+- Long-form YouTube specialization
+
+Do not fabricate any number.
+
+
+==================================================
+10. FINAL CTA / CONTACT
+==================================================
+
+PURPOSE:
+Turn visitors into leads.
+
+Suggested direction:
+
+Have a YouTube channel worth growing?
+
+or a similar strong message.
+
+Support text should communicate:
+Whether the client needs one professionally edited video
+or a complete YouTube content operation, they can contact me.
+
+Possible CTAs:
+- Start a Project
+- Contact Me
+- Hire Me
+
+Include relevant contact and professional links.
+
+
+==================================================
+DESIGN PRINCIPLES
+==================================================
+
+The screenshots in ./references define the DESIGN LANGUAGE,
+not the actual website content.
+
+Take inspiration from:
+- bold oversized typography
+- strong black/white contrast
+- lime/green accent color
+- editorial portfolio composition
+- large visual showcase sections
+- generous whitespace
+- premium case-study layouts
+- creative image grids
+- occasional handwritten/script accent typography
+- subtle motion and hover interactions
+
+Do NOT directly recreate the reference portfolio.
+
+This website is specifically for:
+VIDEO EDITING + YOUTUBE CONTENT & CHANNEL MANAGEMENT.
+
+The final result must feel original and tailored to this profession.
